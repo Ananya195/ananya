@@ -5,5 +5,5 @@ import com.ananya.model.Customer;
 public interface CustomerDAO {
 		public void insert(Customer customer);
 
-	//public Customer findByCustomerId(int custId);
+	//public Customer findByCustomerId(int custId); dsfsdfsdfsdf
 }
